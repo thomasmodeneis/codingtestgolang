@@ -1,0 +1,60 @@
+{
+	"ImportPath": "codingtestgolang",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/davecgh/go-spew/spew",
+			"Rev": "5215b55f46b2b919f50a1df0eaa5886afe4e3b3d"
+		},
+		{
+			"ImportPath": "github.com/drewolson/testflight",
+			"Rev": "d504a0f0d14b0220237a2c56450e76071d954750"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "215affda49addc4c8ef7e2534915df2c8c35c6cd"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "47e8f450ef38c857cdd922ec08862ca9d65a1c6d"
+		},
+		{
+			"ImportPath": "github.com/gorilla/pat",
+			"Rev": "ae2e162c4b2ae96aa66b596b2c18f17834299ed0"
+		},
+		{
+			"ImportPath": "github.com/modeneis/gocustomparser",
+			"Rev": "a38b2d83b51ffe8cced7a2dda75f1cc2d7925fb1"
+		},
+		{
+			"ImportPath": "github.com/pmezard/go-difflib/difflib",
+			"Rev": "792786c7400a136282c1664665ae0a8db921c6c2"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Comment": "v1.1.3-2-g9f9027f",
+			"Rev": "9f9027faeb0dad515336ed2f28317f9f8f527ab4"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding",
+			"Rev": "85c29909967d7f171f821e7a42e7b7af76fb9598"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/charmap",
+			"Rev": "85c29909967d7f171f821e7a42e7b7af76fb9598"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal",
+			"Rev": "85c29909967d7f171f821e7a42e7b7af76fb9598"
+		},
+		{
+			"ImportPath": "golang.org/x/text/encoding/internal/identifier",
+			"Rev": "85c29909967d7f171f821e7a42e7b7af76fb9598"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "85c29909967d7f171f821e7a42e7b7af76fb9598"
+		}
+	]
+}
